@@ -6,17 +6,18 @@
 
 .appAside {
   width: 50%;
-  background-color: #6b5b95;
+  
 }
 
 .appForm {
   width: 50%;
-  background-color: #12130f;
+  background-color: #121311;
   padding: 25px 40px;
   overflow: auto;
 }
 
 .pageSwitcher {
+ 
   display: flex;
   justify-content: flex-end;
   margin-bottom: 10%;
